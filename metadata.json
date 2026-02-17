@@ -1,0 +1,7 @@
+{
+  "name": "Highly Aware Wellness Centre",
+  "description": "A luxury, narrative-driven wellness and counseling website for Highly Aware Wellness Centre in Kiambu, Kenya, featuring calm aesthetics and Gemini-powered local guidance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
